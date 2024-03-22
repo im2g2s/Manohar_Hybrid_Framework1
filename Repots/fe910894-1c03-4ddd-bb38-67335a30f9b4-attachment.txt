@@ -1,0 +1,15 @@
+[32mINFO    [0m root:test_login_ddt.py:18 --------Test_002_DDT_login--------------
+[32mINFO    [0m root:test_login_ddt.py:19 -----------login DDT Test-----------
+[32mINFO    [0m root:test_login_ddt.py:26 5
+[32mINFO    [0m root:test_login_ddt.py:39 -----------click on submit button-----------
+[32mINFO    [0m root:test_login_ddt.py:45 *****Passed
+[32mINFO    [0m root:test_login_ddt.py:39 -----------click on submit button-----------
+[32mINFO    [0m root:test_login_ddt.py:59 *****Passed
+[32mINFO    [0m root:test_login_ddt.py:39 -----------click on submit button-----------
+[32mINFO    [0m root:test_login_ddt.py:59 *****Passed
+[32mINFO    [0m root:test_login_ddt.py:39 -----------click on submit button-----------
+[32mINFO    [0m root:test_login_ddt.py:59 *****Passed
+[32mINFO    [0m root:test_login_ddt.py:62 ['Pass', 'Pass', 'Pass', 'Pass']
+[32mINFO    [0m root:test_login_ddt.py:65 ********Login DDT test passed*****
+[32mINFO    [0m root:test_login_ddt.py:73 -----------End of Login DDT Test-----------
+[32mINFO    [0m root:test_login_ddt.py:74 -----------Completed Test_002_DDT_login-----------

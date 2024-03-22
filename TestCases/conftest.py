@@ -8,7 +8,7 @@ config.read(r"C:\Users\manoh\PycharmProjects\Manohar_Hybrid_Framework\Configurat
 
 @pytest.fixture()
 def setup():
-    browsername = config.get('common', 'browser')
+    browsername = config.get('common', 'browserss')
 
     if browsername == 'chrome':
         driver = webdriver.Chrome()

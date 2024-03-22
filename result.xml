@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="29.399" timestamp="2024-03-22T12:55:15.632482" hostname="LAPTOP-F9EOK3J8"><testcase classname="test_add_customer.Test_003_AddCustomer" name="test_addCustomer" time="28.880" /></testsuite></testsuites>

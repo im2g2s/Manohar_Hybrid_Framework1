@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_login.py:16 ********Test_001_login*************
+[32mINFO    [0m root:test_login.py:17 -----------Verifying Home page-----------
+[32mINFO    [0m root:test_login.py:32 -----------close-----------

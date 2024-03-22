@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_add_customer.py:33 ************* Test_003_AddCustomer **********
+[32mINFO    [0m root:test_add_customer.py:41 ************* Login succesful **********
+[32mINFO    [0m root:test_add_customer.py:43 ******* Starting Add Customer Test **********
+[32mINFO    [0m root:test_add_customer.py:51 ************* Providing customer info **********
+[32mINFO    [0m root:test_add_customer.py:72 ************* Saving customer info **********
+[32mINFO    [0m root:test_add_customer.py:74 ********* Add customer validation started *****************
+[32mINFO    [0m root:test_add_customer.py:90 ******* Ending Add customer test **********
